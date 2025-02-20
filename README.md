@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Quick Refresher for ML</span>
 </h1>
 
 # Quick Refresher for ML
@@ -25,4 +25,4 @@ This session provides a quick refresher on machine learning, focusing on the typ
 | [Key Limitations & Practical Challenges](./key-limitations-and-practical-challenges/README.md) | 10 min | Discuss common limitations and risks in machine learning models. |
 | [Mini Case Study: Selecting the Right Approach](./mini-case-study-selecting-right-approach/README.md) | 20 min | Analyze a business problem and recommend an ML approach. |
 | **Total content** | ~90 min | |
-
+ 
