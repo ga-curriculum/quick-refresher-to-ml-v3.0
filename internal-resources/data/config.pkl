@@ -4,7 +4,7 @@ import "microlessons_quick_refresher_ml.pkl" as mls
 
 repo {
   friendlyName = "Quick Refresher for ML"
-  name = "quick-refresher-to-ML-v2.0"
+  name = "quick-refresher-to-ML-v3.0"
   type = "Lesson"
 }
 
