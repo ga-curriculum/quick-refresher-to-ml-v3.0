@@ -18,6 +18,8 @@ courses {
       mls.microlesson03
       mls.microlesson04
       mls.microlesson05
+      mls.microlesson06
+
     }
   }
 }

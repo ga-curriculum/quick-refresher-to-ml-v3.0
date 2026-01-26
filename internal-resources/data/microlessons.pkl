@@ -10,34 +10,41 @@ setup = new Template.Microlesson {
 }
 
 microlesson01 = new Template.Microlesson {
+  friendlyName = "Introduction to AI Project Design"
+  dirName = "ai-project-design"
+  type = "Content"
+  videoUrl = ""
+}
+
+microlesson02 = new Template.Microlesson {
   friendlyName = "Machine Learning Overview"
   dirName = "machine-learning-overview"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
+microlesson03 = new Template.Microlesson {
   friendlyName = "Algorithm Snapshots"
   dirName = "algorithm-snapshots"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson03 = new Template.Microlesson {
+microlesson04 = new Template.Microlesson {
   friendlyName = "Exercise: Categorizing Real-World Problems"
   dirName = "exercise-categorizing-real-world-problems"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson04 = new Template.Microlesson {
+microlesson05 = new Template.Microlesson {
   friendlyName = "Key Limitations & Practical Challenges"
   dirName = "key-limitations-and-practical-challenges"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson05 = new Template.Microlesson {
+microlesson06 = new Template.Microlesson {
   friendlyName = "Mini Case Study: Selecting the Right Approach"
   dirName = "mini-case-study-selecting-right-approach"
   type = "Content"

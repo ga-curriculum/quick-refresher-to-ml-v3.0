@@ -5,7 +5,7 @@
     },
     "repo": {
       "friendlyName": "Quick Refresher for ML",
-      "name": "quick-refresher-to-ML-v2.0",
+      "name": "quick-refresher-to-ML-v3.0",
       "type": "Lesson",
       "about": "",
       "starterCode": "",
@@ -29,6 +29,16 @@
                 "videoLengthInMinutes": 0,
                 "estimatedDeliveryTimeInMinutes": 5
               },
+                        {
+            "friendlyName": "Introduction to AI Project Designs",
+            "dirName": "ai-project-design",
+            "type": "Content",
+            "skill": "",
+            "learningObjective": "",
+            "videoUrl": "",
+            "videoLengthInMinutes": 0,
+            "estimatedDeliveryTimeInMinutes": 10
+          },
               
           {
             "friendlyName": "Machine Learning Overview",
