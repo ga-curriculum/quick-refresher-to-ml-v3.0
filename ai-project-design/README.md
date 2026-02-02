@@ -82,7 +82,7 @@ Below is the **start‑to‑finish workflow** used in modern AI product developm
 
 **Consider:**
 
-*   Model complexity relative to available data and constraints.
+*   Alignment between the business problem and AI solution type (prediction, classification, generation).
 *   Model complexity relative to available data and constraints.
 *   Infrastructure, integration, and compute requirements.
 *   Availability of domain expertise and technical expertise.
