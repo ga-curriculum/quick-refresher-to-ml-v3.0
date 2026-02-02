@@ -5,12 +5,12 @@
 
 ## Learning Objectives
 By the end of this lesson, you will be able to:
-- Implement foundational machine learning algorithms across supervised, unsupervised, and reinforcement learning categories.
-- Interpret the output of these algorithms and relate it to business decision-making.
-- Build intuition for selecting the right algorithm based on the problem type.
+- Apply foundational machine learning algorithms across supervised, unsupervised, and reinforcement learning categories.
+- Interpret algorithm outputs and connect them to business decisions.
+- Develop intuition for selecting appropriate algorithms based on problem type and data characteristics.
 
 ## Introduction
-Machine learning algorithms are the building blocks of AI solutions. Understanding their strengths, limitations, and outputs is critical for designing effective solutions. In this lesson, you will explore key algorithms from each category (supervised, unsupervised, reinforcement) and apply them to a small dataset representing customer behavior.
+Machine learning algorithms are the building blocks of AI solutions. Understanding their strengths, limitations, and outputs is critical for designing effective solutions. In this lesson, you will explore representative algorithms from supervised, unsupervised, and reinforcement learning, using a small dataset that simulates customer behavior.
 
 ---
 
@@ -54,7 +54,7 @@ Linear regression is most effective for numeric predictions when data has a line
 ---
 
 ### b. Decision Tree Classifier (Predicting Churn)
-Decision trees classify data based on a series of feature splits, making them intuitive and interpretable.
+Decision trees classify data based on a series of feature splits, making them highly intuitive and interpretable.
 
 **Business Application Example:** Predicting whether a customer will churn based on age and monthly spend.
 
