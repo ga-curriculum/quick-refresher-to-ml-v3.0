@@ -17,7 +17,7 @@ By the end of this lesson, learners will be able to:
 A well‑defined AI design process is essential because:
 
 *   Most failed AI initiatives stem from **poor problem scoping**, not model limitations.
-*   Clear design ensures solutions deliver **business value—not just technical output**.
+*   Clear design ensures solutions deliver **business value,not just technical output**.
 *   Early planning reduces risk related to **data quality, bias, compliance, and change management**.
 *   Early stakeholder alignment prevents costly miscommunication later.
 
