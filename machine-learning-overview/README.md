@@ -13,7 +13,7 @@ By the end of this lesson, you will be able to:
 What is Machine Learning?
 -------------------------
 
-Machine learning (ML) is a subset of artificial intelligence (AI) that enables systems to learn from data and make predictions or decisions without being explicitly programmed. Instead of writing specific rules for every possible outcome, ML systems identify patterns in data to generate insights and automate decision-making.
+Machine learning (ML) is a subset of artificial intelligence (AI) that enables systems to learn from data and make predictions or decisions without being explicitly programmed. Instead of relying on hard-coded rules, ML systems identify patterns in data to generate insights and automate decision-making.
 
 ✅ **Traditional programming**: Rules + Data → Output\
 ✅ **Machine learning**: Data + Output → Model (learned rules)
@@ -41,7 +41,7 @@ Types of Machine Learning
 -   Demand forecasting
 -   Email spam detection
 
-**Key Distinction:** There is a clear, known outcome (labeled data).
+**Key Distinction:** The desired outcome is known in advance and explicitly labeled in the data.
 
 <div class="mermaid">
 graph LR
@@ -55,7 +55,7 @@ graph LR
 ### 2\. Unsupervised Learning
 
 
--   The model is trained on unlabeled data. It identifies patterns, groupings, or structures without knowing the correct outputs.
+-   In unsupervised learning, the model is trained on unlabeled data and discovers patterns, groupings, or structures without predefined outcomes.
 
 **Common Algorithms:** K-Means Clustering, Principal Component Analysis (PCA)
 
@@ -77,7 +77,7 @@ graph TD
 
 ### 3\. Reinforcement Learning
 
--   The model learns through trial and error by interacting with an environment. It receives feedback in the form of rewards or penalties based on its actions.
+-   In reinforcement learning, an agent learns through trial and error by interacting with an environment and receiving feedback in the form of rewards or penalties.
 
 **Common Algorithms:** Q-Learning, Policy-Based Methods
 
@@ -88,7 +88,7 @@ graph TD
 -   Recommendation systems that adapt based on user behavior
 -   Game playing (e.g., AlphaGo)
 
-**Key Distinction:** Learning occurs through actions and feedback from the environment, focusing on long-term rewards.
+**Key Distinction:** Learning is driven by interaction and feedback, with a focus on maximizing long-term rewards rather than immediate accuracy.
 
 <div class="mermaid">
 graph TD
@@ -109,6 +109,6 @@ Summary Table
 Key Takeaways for Business
 --------------------------
 
--   **Supervised Learning:** Best when you need predictions and have historical data with known outcomes.
--   **Unsupervised Learning:** Useful when exploring data to discover hidden patterns or groupings.
--   **Reinforcement Learning:** Ideal when making sequential decisions in dynamic environments
+-   **Supervised Learning:** Best suited for prediction tasks when historical data with known outcomes is available.
+-   **Unsupervised Learning:** Useful exploring data to uncover hidden patterns, segments, or anomalies.
+-   **Reinforcement Learning:** Ideal for sequential decision-making in dynamic environments where outcomes evolve over time.

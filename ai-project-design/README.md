@@ -5,9 +5,9 @@
 ## Learning Objectives 
 By the end of this lesson, learners will be able to:
 
-*   Explain the end‑to‑end AI project design lifecycle.
+*   Describe the end‑to‑end AI project design lifecycle.
 *   Identify business problems where AI creates measurable impact.
-*   Evaluate feasibility, data readiness, and value potential of AI initiatives.
+*   Assess feasibility, data readiness, and value potential of AI initiatives.
 *   Apply best practices for scoping, planning, and de‑risking AI projects.
 *   Align AI solutions with strategic goals, responsible AI principles, and operational constraints.
 
@@ -16,19 +16,19 @@ By the end of this lesson, learners will be able to:
 
 A well‑defined AI design process is essential because:
 
-*   Most failed AI initiatives stem from **poor scoping**, not model performance.
-*   Clear design ensures solutions deliver **business value—not just technical output**.
+*   Most failed AI initiatives stem from **poor problem scoping**, not model limitations.
+*   Clear design ensures solutions deliver **business value,not just technical output**.
 *   Early planning reduces risk related to **data quality, bias, compliance, and change management**.
-*   Stakeholders align early, preventing miscommunication later.
+*   Early stakeholder alignment prevents costly miscommunication later.
 
 
 ## The AI Project Design Lifecycle
 
-Below is the **start‑to‑finish workflow** used in modern AI product development. Each stage includes what questions to ask and what outputs to capture.
+Below is the **start‑to‑finish workflow** used in modern AI product development. Each stage outlines the critical questions to ask and the tangible outputs required to move forward with confidence.
 
 ### **Step 1: Identify and Prioritize Business Problems**
 
-**Goal:** Translate business pain points into candidate AI use cases.
+**Goal:** Translate business pain points into high-impact,AI-suitable use cases.
 
 **Questions to ask:**
 
@@ -38,7 +38,7 @@ Below is the **start‑to‑finish workflow** used in modern AI product developm
 
 **Output:**
 
-*   A prioritized list of AI opportunities tied to clear business metrics.
+*   A prioritized list of AI opportunities tied to clear, measurable business outcomes.
 
 ***
 
@@ -65,9 +65,9 @@ Below is the **start‑to‑finish workflow** used in modern AI product developm
 
 **Evaluate:**
 
-*   Data sources (structured, unstructured, real‑time).
-*   Data quality (completeness, consistency, accuracy).
-*   Labeling needs for supervised tasks.
+*   Available Data sources (structured, unstructured, real‑time).
+*   Data quality dimensions (completeness, consistency, accuracy).
+*   Labeling requirements for supervised learning tasks.
 *   Ethical considerations—bias, privacy, sensitive data.
 
 **Output:**
@@ -82,12 +82,13 @@ Below is the **start‑to‑finish workflow** used in modern AI product developm
 
 **Consider:**
 
-*   Problem‑solution fit (prediction, classification, generation, etc.).
-*   Complexity of the model required.
+*   Alignment between the business problem and AI solution type (prediction, classification, generation).
+*   Model complexity relative to available data and constraints.
 *   Infrastructure, integration, and compute requirements.
-*   Availability of domain expertise.
+*   Availability of domain expertise and technical expertise.
 *   Whether a rule‑based system, decision tree logic, or simple automation could solve the problem without the overhead of a full ML model.
 *   Whether the problem requires true pattern recognition from data, or whether the logic is already well‑understood and can be hard‑coded.
+
 
 **Output:**
 
@@ -109,7 +110,7 @@ Below is the **start‑to‑finish workflow** used in modern AI product developm
 
 **Output:**
 
-*   A value‑risk matrix to support decision‑making.
+*   A value‑risk matrix to support investment and prioritization decisions.
 
 ***
 
@@ -135,11 +136,11 @@ Below is the **start‑to‑finish workflow** used in modern AI product developm
 
 **Plan for:**
 
-*   Integration into business workflows.
-*   Monitoring for drift, bias, and performance degradation.
+*   Seamless integration into existing business workflows.
+*   Continuous monitoring for drift, bias, and performance degradation.
 *   Human‑AI feedback loops.
-*   Maintenance, updates, and change management.
-*   Responsible AI (RAI) compliance.
+*   Ongoing maintenance, retraining, and change management.
+*   Compliance with Responsible AI (RAI) and regulatory standards.
 
 **Output:**
 
@@ -152,10 +153,10 @@ Below is the **start‑to‑finish workflow** used in modern AI product developm
 - **Start with the Business Outcome, Not the Model**: AI should solve a real business problem—avoid “technology‑first” thinking.
 - **Involve Cross‑Functional Teams Early**: Include business stakeholders, data scientists, legal, security, and end users.
 - **Think Iteratively**: Begin with a Minimum Viable Model and improve based on feedback and performance.
-- **Validate Feasibility Quickly**: Kill low‑value or low‑feasibility ideas early to save resources.
+- **Validate Feasibility Quickly**: Deprioritize low‑value or low‑feasibility ideas early to conserve resources.
 - **Prioritize Data Quality Over Quantity**: Clean, representative, unbiased data consistently outperforms larger volumes of messy data.
 - **Build for Trust and Transparency**: Design with Responsible AI principles: fairness, safety, privacy, transparency.
-- **Measure What Matters** : Define KPIs for both **model performance** and **business impact**.
+- **Measure What Matters**: Define KPIs for both **model performance** and **business impact**.
 
 
 ## Reflection Exercise (Optional)
@@ -167,7 +168,7 @@ Ask participants to think of one workflow in their daily job that is:
 *   slow or expensive
 *   high‑impact
 
-Task:  Write a one‑sentence AI use case idea using this template:
+Task:  Write a one‑sentence AI use case using this template:
 
 **“We want to improve \_\_\_ by using AI to \_\_\_ so that \_\_\_.”**
 
@@ -179,8 +180,8 @@ This mirrors the ML refresher activity and transitions well into later modules.
 By following a structured AI Project Design Process, teams can:
 
 *   Identify valuable AI opportunities
-*   De‑risk projects early
+*   De‑risk initiatives early in the lifecycle
 *   Build scalable, responsible AI solutions
-*   Deliver measurable business value
+*   Deliver measurable and sustainable business value
 
 
