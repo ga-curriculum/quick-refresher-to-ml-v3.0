@@ -78,22 +78,22 @@ Below is the **start‑to‑finish workflow** used in modern AI product developm
 
 ### **Step 4: Evaluate Technical Feasibility**
 
-**Goal:** Confirm whether the AI problem can be solved with current technology. Critically, this step also determines whether AI or ML is actually the right tool — or whether a simpler rule‑based automation, dashboard, or statistical analysis would deliver the same outcome faster and at lower cost.
+**Goal:** Confirm whether the AI problem can be solved with current technology. Critically, this step also determines whether AI or ML is actually the right tool, or whether a simpler rule‑based automation, dashboard, or statistical analysis could deliver the same outcome faster and at lower cost.
 
 **Consider:**
 
-*   Alignment between the business problem and AI solution type (prediction, classification, generation).
+*   Alignment between the business problem and the AI solution type (prediction, classification, or generation).
 *   Model complexity relative to available data and constraints.
 *   Infrastructure, integration, and compute requirements.
-*   Availability of domain expertise and technical expertise.
+*   Availability of domain and technical expertise.
 *   Whether a rule‑based system, decision tree logic, or simple automation could solve the problem without the overhead of a full ML model.
 *   Whether the problem requires true pattern recognition from data, or whether the logic is already well‑understood and can be hard‑coded.
 
 
 **Output:**
 
-*   A feasibility rating (high, medium, low) and recommended approach.
-*   A clear recommendation on whether AI/ML is justified, or whether a simpler analytical or automation solution is more appropriate for the use case.
+*   A feasibility rating (high, medium, or low) and recommended approach.
+*   A clear recommendation on whether AI/ML is justified, or whether a simpler analytical or automation-based solution is more appropriate for the use case.
 
 ***
 
